@@ -1,0 +1,192 @@
+[calc][15/02/28 18:15:07][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:15:07][INFO]:
+[32m Try to load previous DYSHON_para file [0m
+[calc][15/02/28 18:15:07][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:15:07][INFO]:
+0_DYSON_para para file is loaded
+[calc][15/02/28 18:15:07][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:15:07][INFO]:
+Load G, W from Weight
+[calc][15/02/28 18:15:08][INFO]:
+[32m Start Version 517... [0m
+[calc][15/02/28 18:15:08][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:15:08][INFO]:
+calculating SigmaDeltaT..
+[calc][15/02/28 18:15:08][INFO]:
+SigmaDeltaT is done
+[calc][15/02/28 18:15:08][INFO]:
+Collecting Sigma/Polar statistics...
+[calc][15/02/28 18:15:08][INFO]:
+[32m Version 517 fails due to:
+No statistics files to read! [0m
+[calc][15/02/28 18:15:08][INFO]:
+[32m Memory Usage before collecting: 207.2109375 MB [0m
+[calc][15/02/28 18:15:08][INFO]:
+[32m Memory Usage : 207.2109375 MB [0m
+[calc][15/02/28 18:15:43][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:15:43][INFO]:
+[32m Try to load previous DYSHON_para file [0m
+[calc][15/02/28 18:15:43][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:15:43][INFO]:
+0_DYSON_para para file is loaded
+[calc][15/02/28 18:15:43][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:15:43][INFO]:
+Load G, W, Sigma, Polar from Weight
+[calc][15/02/28 18:15:43][INFO]:
+[32m Start Version 517... [0m
+[calc][15/02/28 18:15:43][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:15:43][INFO]:
+calculating SigmaDeltaT..
+[calc][15/02/28 18:15:43][INFO]:
+SigmaDeltaT is done
+[calc][15/02/28 18:15:43][INFO]:
+Collecting Sigma/Polar statistics...
+[calc][15/02/28 18:15:43][INFO]:
+[32m Version 517 fails due to:
+No statistics files to read! [0m
+[calc][15/02/28 18:15:43][INFO]:
+[32m Memory Usage before collecting: 204.5 MB [0m
+[calc][15/02/28 18:15:43][INFO]:
+[32m Memory Usage : 204.5 MB [0m
+[calc][15/02/28 18:20:22][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:20:22][INFO]:
+[32m Try to load previous DYSHON_para file [0m
+[calc][15/02/28 18:20:22][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:20:22][WARNING]:
+[31m Previous DYSHON_para file does not exist, use _in_DYSON_ file as para instead [0m
+[calc][15/02/28 18:20:22][INFO]:
+Saving Parameters...
+[calc][15/02/28 18:20:22][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:20:23][INFO]:
+Load G, W, Sigma, Polar from Weight
+[calc][15/02/28 18:20:23][INFO]:
+[32m Start Version 1... [0m
+[calc][15/02/28 18:20:23][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:20:23][INFO]:
+calculating SigmaDeltaT..
+[calc][15/02/28 18:20:23][INFO]:
+SigmaDeltaT is done
+[calc][15/02/28 18:20:23][INFO]:
+Collecting Sigma/Polar statistics...
+[calc][15/02/28 18:20:23][INFO]:
+[32m Version 1 fails due to:
+No statistics files to read! [0m
+[calc][15/02/28 18:20:23][INFO]:
+[32m Memory Usage before collecting: 208.05859375 MB [0m
+[calc][15/02/28 18:20:23][INFO]:
+[32m Memory Usage : 208.05859375 MB [0m
+[calc][15/02/28 18:20:59][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:20:59][INFO]:
+[32m Try to load previous DYSHON_para file [0m
+[calc][15/02/28 18:20:59][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:20:59][INFO]:
+0_DYSON_para para file is loaded
+[calc][15/02/28 18:20:59][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:20:59][INFO]:
+Load G, W, Sigma, Polar from Weight
+[calc][15/02/28 18:20:59][INFO]:
+[32m Start Version 517... [0m
+[calc][15/02/28 18:20:59][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:20:59][INFO]:
+calculating SigmaDeltaT..
+[calc][15/02/28 18:20:59][INFO]:
+SigmaDeltaT is done
+[calc][15/02/28 18:20:59][INFO]:
+Collecting Sigma/Polar statistics...
+[calc][15/02/28 18:20:59][INFO]:
+[32m Version 517 fails due to:
+No statistics files to read! [0m
+[calc][15/02/28 18:20:59][INFO]:
+[32m Memory Usage before collecting: 206.04296875 MB [0m
+[calc][15/02/28 18:20:59][INFO]:
+[32m Memory Usage : 206.04296875 MB [0m
+[calc][15/02/28 18:22:09][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:22:09][INFO]:
+[32m Try to load previous DYSHON_para file [0m
+[calc][15/02/28 18:22:09][INFO]:
+Loading Parameters...
+[calc][15/02/28 18:22:09][INFO]:
+0_DYSON_para para file is loaded
+[calc][15/02/28 18:22:09][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:22:09][INFO]:
+Load G, W, Sigma, Polar from Weight
+[calc][15/02/28 18:22:10][INFO]:
+[32m Start Version 517... [0m
+[calc][15/02/28 18:22:10][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:22:10][INFO]:
+calculating SigmaDeltaT..
+[calc][15/02/28 18:22:10][INFO]:
+SigmaDeltaT is done
+[calc][15/02/28 18:22:10][INFO]:
+accumulating Sigma/Polar statistics...
+[calc][15/02/28 18:22:10][INFO]:
+calculating G...
+[calc][15/02/28 18:22:10][INFO]:
+The minmum (1.00041178346-3.30087820464e-07j) is at K=[0, 0, 0] and Omega=32
+[calc][15/02/28 18:22:10][INFO]:
+calculating W...
+[calc][15/02/28 18:22:11][INFO]:
+The minmum (0.0181908020996-0.00624595163273j) is at K=[0, 0, 0] and Omega=0
+[calc][15/02/28 18:22:11][INFO]:
+everything is going well!
+[calc][15/02/28 18:22:11][INFO]:
+Measuring...
+[calc][15/02/28 18:22:13][INFO]:
+Latest measurement:
+1-JP=(0.0181908020996-0.00624595163273j)
+<Sz_0>=(-0.456471619379+0.00886446019782j)
+<Sz_1>=(0.456466487576-0.00886205532195j)
+Energy=(-1.58619901271+0.0271084375221j)
+StagChi=(324.11285939-11.6490686354j)
+StagMag^2 density=(0.211010976165-0.00758402905953j)
+UnifChi=(0.206928074075+0.00390254138915j)
+
+[calc][15/02/28 18:22:13][INFO]:
+Save weights into Weight File
+[calc][15/02/28 18:22:13][INFO]:
+Saving Parameters...
+[calc][15/02/28 18:22:15][INFO]:
+Max:0.237694979498, Min: -0.306998471658
+[calc][15/02/28 18:22:16][INFO]:
+Plotting done!
+[calc][15/02/28 18:22:16][INFO]:
+[32m ExternalField decreased to: [ 0.  0.  0.  0.] [0m
+[calc][15/02/28 18:22:16][INFO]:
+Broadcast Message
+[calc][15/02/28 18:22:16][INFO]:
+Version 517 is done!
+[calc][15/02/28 18:22:16][INFO]:
+[32m Memory Usage before collecting: 425.8046875 MB [0m
+[calc][15/02/28 18:22:16][INFO]:
+[32m Memory Usage : 423.8046875 MB [0m
+[calc][15/02/28 18:22:16][INFO]:
+[32m Start Version 518... [0m
+[calc][15/02/28 18:22:16][INFO]:
+set Mu=1.0471975512j, Hopping=[ 0.], and SmoothT Bare G
+[calc][15/02/28 18:22:16][INFO]:
+calculating SigmaDeltaT..
+[calc][15/02/28 18:22:16][INFO]:
+SigmaDeltaT is done
+[calc][15/02/28 18:22:16][INFO]:
+accumulating Sigma/Polar statistics...
+[calc][15/02/28 18:22:16][INFO]:
+calculating G...

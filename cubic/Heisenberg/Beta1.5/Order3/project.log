@@ -1,0 +1,145 @@
+
+[job.daemon][15/02/28 18:15:05][INFO]:
+Jobs manage daemon is started...
+
+[job.daemon][15/02/28 18:15:05][INFO]:
+Constructing the job queue...
+
+[job.daemon][15/02/28 18:15:05][INFO]:
+Constructed the job queue!
+
+[job.daemon][15/02/28 18:15:05][INFO]:
+Job(DYSON).0 is started...
+
+[job.daemon][15/02/28 18:15:05][INFO]:
+input:
+{'Job': {'OutputFile': 'Dyson_Output', 'MessageFile': 'Message', 'PID': 0, 'DysonOnly': False, 'WeightFile': 'Weight', 'Type': 'DYSON'}, 'Para': {'Tau': {'MaxTauBin': 64, 'Beta': 1.5}, 'Dyson': {'Annealing': {'Interval': [-0.1, 0.1, -0.0, -0.0], 'DeltaField': [0.2, -0.2, 0.0, 0.0]}, 'ErrorThreshold': 0.2, 'OrderAccepted': {'Polar': 3, 'Sigma': 3}, 'SleepTime': 40}, 'Model': {'Interaction': [1.0, 0.0], 'Name': 'J1J2', 'ExternalField': [0.01, -0.01, 0.0, 0.0]}, 'Lattice': {'NSublat': 2, 'Name': '3DCheckerboard', 'L': [8, 8, 8]}}}
+
+[job.daemon][15/02/28 18:15:05][INFO]:
+PID:2989
+
+
+[job.daemon][15/02/28 18:15:21][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:15:21][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:15:22][INFO]:
+Jobs manage daemon is ended
+
+[job.daemon][15/02/28 18:15:42][INFO]:
+Jobs manage daemon is started...
+
+[job.daemon][15/02/28 18:15:42][INFO]:
+Constructing the job queue...
+
+[job.daemon][15/02/28 18:15:42][INFO]:
+Constructed the job queue!
+
+[job.daemon][15/02/28 18:15:42][INFO]:
+Job(DYSON).0 is started...
+
+[job.daemon][15/02/28 18:15:42][INFO]:
+input:
+{'Job': {'OutputFile': 'Dyson_Output', 'MessageFile': 'Message', 'PID': 0, 'DysonOnly': False, 'WeightFile': 'Weight', 'Type': 'DYSON'}, 'Para': {'Tau': {'MaxTauBin': 64, 'Beta': 1.5}, 'Dyson': {'Annealing': {'Interval': [-0.1, 0.1, -0.0, -0.0], 'DeltaField': [0.2, -0.2, 0.0, 0.0]}, 'ErrorThreshold': 0.2, 'OrderAccepted': {'Polar': 3, 'Sigma': 3}, 'SleepTime': 40}, 'Model': {'Interaction': [1.0, 0.0], 'Name': 'J1J2', 'ExternalField': [0.01, -0.01, 0.0, 0.0]}, 'Lattice': {'NSublat': 2, 'Name': '3DCheckerboard', 'L': [8, 8, 8]}}}
+
+[job.daemon][15/02/28 18:15:42][INFO]:
+PID:3055
+
+
+[job.daemon][15/02/28 18:16:00][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:16:00][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:16:01][INFO]:
+Jobs manage daemon is ended
+
+[job.daemon][15/02/28 18:20:22][INFO]:
+Jobs manage daemon is started...
+
+[job.daemon][15/02/28 18:20:22][INFO]:
+Constructing the job queue...
+
+[job.daemon][15/02/28 18:20:22][INFO]:
+Constructed the job queue!
+
+[job.daemon][15/02/28 18:20:22][INFO]:
+Job(DYSON).0 is started...
+
+[job.daemon][15/02/28 18:20:22][INFO]:
+input:
+{'Job': {'OutputFile': 'Dyson_Output', 'MessageFile': 'Message', 'PID': 0, 'DysonOnly': False, 'WeightFile': 'Weight', 'Type': 'DYSON'}, 'Para': {'Tau': {'MaxTauBin': 64, 'Beta': 1.5}, 'Dyson': {'Annealing': {'Interval': [-0.1, 0.1, -0.0, -0.0], 'DeltaField': [0.2, -0.2, 0.0, 0.0]}, 'ErrorThreshold': 0.2, 'OrderAccepted': {'Polar': 3, 'Sigma': 3}, 'SleepTime': 40}, 'Model': {'Interaction': [1.0, 0.0], 'Name': 'J1J2', 'ExternalField': [0.01, -0.01, 0.0, 0.0]}, 'Lattice': {'NSublat': 2, 'Name': '3DCheckerboard', 'L': [8, 8, 8]}}}
+
+[job.daemon][15/02/28 18:20:22][INFO]:
+PID:3125
+
+
+[job.daemon][15/02/28 18:20:37][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:20:37][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:20:38][INFO]:
+Jobs manage daemon is ended
+
+[job.daemon][15/02/28 18:20:58][INFO]:
+Jobs manage daemon is started...
+
+[job.daemon][15/02/28 18:20:58][INFO]:
+Constructing the job queue...
+
+[job.daemon][15/02/28 18:20:58][INFO]:
+Constructed the job queue!
+
+[job.daemon][15/02/28 18:20:58][INFO]:
+Job(DYSON).0 is started...
+
+[job.daemon][15/02/28 18:20:58][INFO]:
+input:
+{'Job': {'OutputFile': 'Dyson_Output', 'MessageFile': 'Message', 'PID': 0, 'DysonOnly': False, 'WeightFile': 'Weight', 'Type': 'DYSON'}, 'Para': {'Tau': {'MaxTauBin': 64, 'Beta': 1.5}, 'Dyson': {'Annealing': {'Interval': [-0.1, 0.1, -0.0, -0.0], 'DeltaField': [0.2, -0.2, 0.0, 0.0]}, 'ErrorThreshold': 0.2, 'OrderAccepted': {'Polar': 3, 'Sigma': 3}, 'SleepTime': 40}, 'Model': {'Interaction': [1.0, 0.0], 'Name': 'J1J2', 'ExternalField': [0.01, -0.01, 0.0, 0.0]}, 'Lattice': {'NSublat': 2, 'Name': '3DCheckerboard', 'L': [8, 8, 8]}}}
+
+[job.daemon][15/02/28 18:20:58][INFO]:
+PID:3181
+
+
+[job.daemon][15/02/28 18:21:16][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:21:16][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:21:17][INFO]:
+Jobs manage daemon is ended
+
+[job.daemon][15/02/28 18:22:09][INFO]:
+Jobs manage daemon is started...
+
+[job.daemon][15/02/28 18:22:09][INFO]:
+Constructing the job queue...
+
+[job.daemon][15/02/28 18:22:09][INFO]:
+Constructed the job queue!
+
+[job.daemon][15/02/28 18:22:09][INFO]:
+Job(DYSON).0 is started...
+
+[job.daemon][15/02/28 18:22:09][INFO]:
+input:
+{'Job': {'OutputFile': 'Dyson_Output', 'MessageFile': 'Message', 'PID': 0, 'DysonOnly': True, 'WeightFile': 'Weight', 'Type': 'DYSON'}, 'Para': {'Tau': {'MaxTauBin': 64, 'Beta': 1.5}, 'Dyson': {'Annealing': {'Interval': [-0.1, 0.1, -0.0, -0.0], 'DeltaField': [0.2, -0.2, 0.0, 0.0]}, 'ErrorThreshold': 0.2, 'OrderAccepted': {'Polar': 3, 'Sigma': 3}, 'SleepTime': 40}, 'Model': {'Interaction': [1.0, 0.0], 'Name': 'J1J2', 'ExternalField': [0.01, -0.01, 0.0, 0.0]}, 'Lattice': {'NSublat': 2, 'Name': '3DCheckerboard', 'L': [8, 8, 8]}}}
+
+[job.daemon][15/02/28 18:22:09][INFO]:
+PID:3243
+
+
+[job.daemon][15/02/28 18:22:16][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:22:16][INFO]:
+Job(DYSON).0 is ended!
+
+[job.daemon][15/02/28 18:22:17][INFO]:
+Jobs manage daemon is ended

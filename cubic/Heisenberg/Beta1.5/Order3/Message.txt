@@ -1,0 +1,1 @@
+{'Beta': 1.5, 'SqueezeFactor': 1.0, 'Version': 517}

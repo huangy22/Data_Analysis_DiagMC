@@ -1,0 +1,2 @@
+scp chen-huang-zhang@210.45.78.184:~/Cubic_Benchmark/data/*.txt DiagMC/OriginalData/
+#scp chen-huang-zhang@210.45.78.184:~/Cubic_Benchmark/data/PathIntegral/*.dat PathIntegral/OriginalData/

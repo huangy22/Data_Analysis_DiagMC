@@ -1,0 +1,71 @@
+{'files':[	
+    'L8_Beta0.25_H1.0_Order1',
+    'L8_Beta0.25_H1.0_Order2',
+    'L8_Beta0.25_H1.0_Order3',
+
+    'L8_Beta0.33_H1.0_Order1',
+    'L8_Beta0.33_H1.0_Order2',
+    'L8_Beta0.33_H1.0_Order3',
+
+    'L8_Beta0.5_H1.0_Order1',
+    'L8_Beta0.5_H1.0_Order2',
+    'L8_Beta0.5_H1.0_Order3',
+
+    'L8_Beta1.0_H1.0_Order1',
+    'L8_Beta1.0_H1.0_Order2',
+    'L8_Beta1.0_H1.0_Order3',
+    'L8_Beta1.0_H1.0_Order4',
+    'L8_Beta1.0_H1.0_Order5',
+    'L8_Beta1.0_H1.0_Order6',
+
+    'L8_Beta0.25_H0.5_Order1',
+    'L8_Beta0.25_H0.5_Order2',
+    'L8_Beta0.25_H0.5_Order3',
+
+    'L8_Beta0.33_H0.5_Order1',
+    'L8_Beta0.33_H0.5_Order2',
+    'L8_Beta0.33_H0.5_Order3',
+
+    'L8_Beta0.5_H0.5_Order1',
+    'L8_Beta0.5_H0.5_Order2',
+    'L8_Beta0.5_H0.5_Order3',
+
+    'L8_Beta1.0_H0.5_Order1',
+    'L8_Beta1.0_H0.5_Order2',
+    'L8_Beta1.0_H0.5_Order3',
+    'L8_Beta1.0_H0.5_Order4',
+    'L8_Beta1.0_H0.5_Order5',
+    'L8_Beta1.0_H0.5_Order6',
+
+    'L8_Beta1.5_H0.5_Order1',
+    'L8_Beta1.5_H0.5_Order2',
+    'L8_Beta1.5_H0.5_Order3',
+    'L8_Beta1.5_H0.5_Order4',
+    'L8_Beta1.5_H0.5_Order5',
+    'L8_Beta1.5_H0.5_Order6',
+
+    'L8_Beta0.25_H0.25_Order1',
+    'L8_Beta0.25_H0.25_Order2',
+    'L8_Beta0.25_H0.25_Order3',
+
+    'L8_Beta0.33_H0.25_Order1',
+    'L8_Beta0.33_H0.25_Order2',
+    'L8_Beta0.33_H0.25_Order3',
+
+    'L8_Beta0.5_H0.25_Order1',
+    'L8_Beta0.5_H0.25_Order2',
+    'L8_Beta0.5_H0.25_Order3',
+
+    'L8_Beta1.0_H0.25_Order1',
+    'L8_Beta1.0_H0.25_Order2',
+    'L8_Beta1.0_H0.25_Order3',
+    'L8_Beta1.0_H0.25_Order4',
+    'L8_Beta1.0_H0.25_Order5',
+    'L8_Beta1.0_H0.25_Order6',
+
+    'L8_Beta1.5_H0.25_Order1',
+    'L8_Beta1.5_H0.25_Order2',
+    'L8_Beta1.5_H0.25_Order3',
+#    'L8_Beta1.5_H0.5_Order4',
+#    'L8_Beta1.5_H0.5_Order5',
+    ]}

@@ -1,0 +1,11 @@
+{'Para': {'Dyson': {'Annealing': {'DeltaField': [0.0, 0.0, 0.0, 0.0],
+                                  'Interval': [-0.1, 0.1, -0.0, -0.0]},
+                    'ErrorThreshold': 0.2,
+                    'OrderAccepted': {'Polar': 3, 'Sigma': 3},
+                    'SleepTime': 40},
+          'Lattice': {'L': [8, 8, 8], 'NSublat': 2, 'Name': '3DCheckerboard'},
+          'Model': {'ExternalField': [0.01, -0.01, 0.0, 0.0],
+                    'Interaction': [1.0, 0.0],
+                    'Name': 'J1J2'},
+          'Tau': {'Beta': 1.5, 'MaxTauBin': 64},
+          'Version': 517}}
